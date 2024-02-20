@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="user">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="btn1">INGRESAR</string>
+    <string name="btn2">REGISTRARSE</string>
+    <string name="btn3">ALARMA</string>
+    <string name="btn4">CORREO</string>
+
+    <string name="saludo">¡Hola %s!</string>
+    <string name="titulo">BIENVENIDO</string>
+
+</resources>
